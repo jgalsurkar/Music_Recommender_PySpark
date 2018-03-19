@@ -14,3 +14,17 @@ artist_alias.txt : contains artist IDs that may be misspelled or nonstandard to 
 ## Technology Used
 - Python 2.7
 - PySpark (MLlib)
+
+## Sample Result
+
+Making recommendations based on Tupac :
+
+Jay Z
+
+50 Cent
+
+Dr. Dre
+
+Eminem
+
+Nas
